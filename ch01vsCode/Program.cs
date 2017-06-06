@@ -7,7 +7,7 @@ namespace ch01vsCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!..Beautiful VSCode, Welcome to .NET Core");
+            Console.WriteLine("Hello World!..Beautiful VSCode, Welcome to .NET Core..makig some change");
 
             var actions = new List<Action>();
             for(var i=0; i<5; i++)
