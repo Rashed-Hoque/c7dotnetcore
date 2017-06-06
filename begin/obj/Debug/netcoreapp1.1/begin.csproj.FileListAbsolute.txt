@@ -1,0 +1,8 @@
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/bin/Debug/netcoreapp1.1/begin.deps.json
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/bin/Debug/netcoreapp1.1/begin.runtimeconfig.json
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/bin/Debug/netcoreapp1.1/begin.runtimeconfig.dev.json
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/bin/Debug/netcoreapp1.1/begin.dll
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/bin/Debug/netcoreapp1.1/begin.pdb
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/obj/Debug/netcoreapp1.1/begin.AssemblyInfo.cs
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/obj/Debug/netcoreapp1.1/begin.dll
+/Users/rashed/jsh/dotnetcore/saf/c#7dotnetcore/begin/obj/Debug/netcoreapp1.1/begin.pdb
